@@ -1,0 +1,182 @@
+<style>
+tr, td, .sf {
+	display: none;
+}
+body {
+	background-image: url("http://i.imgur.com/6jSoCFP.jpg");
+	background-repeat: no-repeat;
+	background-color: #858484;
+}
+a:link, a:active, a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+a:hover {
+	color: #ecefed;
+}
+#intro {
+	width: 300px;
+	height: auto;
+	background-image: url("http://i.imgur.com/c66gHJ5.png");
+	background-repeat: repeat;
+	overflow: hidden;
+	padding: 40px;
+	margin: 10px;
+	margin-bottom: 2px;
+	float: left;
+	color: #62605c;
+	text-align: justify;
+	font-family: georgia;
+	font-size: 9pt;
+}
+b {
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 9pt;
+}
+i {
+	color: #ffffff;
+	font-weight: -blocked-;
+	font-size: 9pt;
+}
+h1 {
+	margin-bottom: 10px;
+	margin-top: -1px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: tahoma;
+	font-size: 9pt;
+	background-image: url("http://i.imgur.com/c66gHJ5.png");
+	color: #9b9a9a;
+	padding: 3px 0px 3px 0px;
+	letter-spacing: 3px;
+	font-weight: normal;
+}
+
+.picture {
+	margin: 5px;
+	width: auto;
+	height:auto;
+	text-align: center;
+}
+</style>
+
+<div id="intro" style="position: relative;">
+<h1>Scribbles</h1>
+Welcome to the <i>scribble page</i>! A creative outlet for your brain during our summertime <a href="/~147391i4">Hula Palooza</a>. Here, you can find coloring pages and a crossword! You can only do each of them once, and when you finish it, they'll be put up on our guild fridge!<p>
+
+Don't forget to submit them to <a href="/neomessages.phtml?type=send&recipient=deja_vu_girl">Boom</a>, otherwise they won't get put up, and you won't get pts!
+
+</p><h1>Crossword</h1>
+
+Follow the hints on the crossword! And take caution, if you're caught giving hints to others, you will be banished to the sauna!
+
+<p></p><center>
+<img src="http://i.imgur.com/EF3Zz6F.png" width="50" height="50"></center>
+<h1>Coloring pages</h1>
+
+Color in the lines, or not! With fins like yours, you can do anything! Just make sure it's presentable on our glorious fridge.
+<p>
+</p><center>
+<img src="http://i.imgur.com/M3uzOMO.png" width="50" height="50"><img src="http://i.imgur.com/xPBxnkJ.png" width="50" height="50"><img src="http://i.imgur.com/VP81eV3.png" width="50" height="50"><img src="http://i.imgur.com/WF3jizp.png" width="50" height="50"><img src="http://i.imgur.com/Jpzn8Xm.png" width="50" height="50"></center>
+<br>
+<h1>The Mirage Fridge</h1>
+<p>To the right, you can see all the artwork that's been done. As mentioned before, if you don't send them to Boom, they can't be put up. Hover over the images to see who submitted them! And for a full-size view, drag the picture up to the address bar of your browser!</p>
+</div>
+
+
+<div class="picture" style="position: absolute; top: 400px; left: 500px;">
+<img src="http://i920.photobucket.com/albums/ad45/youbreakitdown/kitty.png" alt="by Katie!" title="by Katie!" height="80" width="80"></div>
+
+<div class="picture" style="position: absolute; top: 35px; left: 680px;">
+<img src="http://i920.photobucket.com/albums/ad45/youbreakitdown/conekatie.png" alt="by Katie!" title="by Katie!" height="120" width="60"></div>
+
+<div class="picture" style="position: absolute; top: 200px; left: 640px;">
+<img src="http://i920.photobucket.com/albums/ad45/youbreakitdown/tikikatie.png" alt="by Katie!" title="by Katie!" height="80" width="80"></div>
+
+<div class="picture" style="position: absolute; top: 375px; left: 790px;">
+<img src="http://i920.photobucket.com/albums/ad45/youbreakitdown/kittycampkatie.png" alt="by Katie!" title="by Katie!" height="100" width="80"></div>
+
+
+<div class="picture" style="position: absolute; top: 150px; left: 745px;">
+<img src="http://i.imgur.com/287PhO1.png" alt="by Boom!" title="by Boom!" height="140" width="70"></div>
+
+<div class="picture" style="position: absolute; top: 170px; left: 430px;">
+<img src="http://i.imgur.com/jpVYgc8.png" alt="by Boom!" title="by Boom!" height="40" width="40"></div>
+
+<div class="picture" style="position: absolute; top: 270px; left: 830px;">
+<img src="http://i.imgur.com/9L6E0ql.png" alt="by Boom!" title="by Boom!" height="50" width="50"></div>
+
+
+<div class="picture" style="position: absolute; top: 50px; left: 430px;">
+<img src="http://i.imgur.com/wrCDaRU.png" alt="by Myra!" title="by Myra!" height="100" width="70"></div>
+
+<div class="picture" style="position: absolute; top: 500px; left: 800px;">
+<img src="http://i.imgur.com/fBqVbQK.png" alt="by Myra!" title="by Myra!" height="80" width="80"></div>
+
+<div class="picture" style="position: absolute; top: 240px; left: 520px;">
+<img src="http://i.imgur.com/4oCGxDL.png" alt="by Myra!" title="by Myra!" height="70" width="35"></div>
+
+<div class="picture" style="position: absolute; top: 150px; left: 600px;">
+<img src="http://i.imgur.com/JwcTFWe.png" alt="by Myra!" title="by Myra!" height="40" width="40"></div>
+
+<div class="picture" style="position: absolute; top: 600px; left: 750px;">
+<img src="http://i.imgur.com/cYAkm0d.png" alt="by Myra!" title="by Myra!" height="80" width="80"></div>
+
+
+<div class="picture" style="position: absolute; top: 400px; left: 630px;">
+<img src="http://i67.tinypic.com/96bz4p.png" alt="by Revv!" title="by Revv!" height="120" width="60"></div>
+
+<div class="picture" style="position: absolute; top: 30px; left: 590px;">
+<img src="http://i461.photobucket.com/albums/qq339/_lief/cat_zps5uryplzg.png" alt="by Revv!" title="by Revv!" height="80" width="80"></div>
+
+<div class="picture" style="position: absolute; top: 160px; left: 490px;">
+<img src="http://i461.photobucket.com/albums/qq339/_lief/tikigirl_zpsw4zqpavo.png" alt="by Revv!" title="by Revv!" height="50" width="50"></div>
+
+<div class="picture" style="position: absolute; top: 470px; left: 710px;">
+<img src="http://i461.photobucket.com/albums/qq339/_lief/heads_zps25duqrsz.png" alt="by Revv!" title="by Revv!" height="60" width="60"></div>
+
+<div class="picture" style="position: absolute; top: 500px; left: 510px;">
+<img src="http://i68.tinypic.com/24whdte.png" alt="by Revv!" title="by Revv!" height="60" width="40"></div>
+
+
+<div class="picture" style="position: absolute; top: 650px; left: 430px;">
+<img src="http://i1152.photobucket.com/albums/p484/KunaiCupcake/wikitiki_zpsq5w3usvp.png" alt="by Lady!" title="by Lady!" height="60" width="60"></div>
+
+<div class="picture" style="position: absolute; top: 570px; left: 525px;">
+<img src="http://i1152.photobucket.com/albums/p484/KunaiCupcake/wakikikitty_zpsa1quqdq1.png" alt="by Lady!" title="by Lady!" height="80" width="80"></div>
+
+<div class="picture" style="position: absolute; top: 60px; left: 800px;">
+<img src="http://i1152.photobucket.com/albums/p484/KunaiCupcake/Waikiki_zpsnpjzrn7e.png" alt="by Lady!" title="by Lady!" height="80" width="80"></div>
+
+<div class="picture" style="position: absolute; top: 230px; left: 440px;">
+<img src="http://i1152.photobucket.com/albums/p484/KunaiCupcake/Untitled_zpsee9smujg.png" alt="by Lady!" title="by Lady!" height="80" width="60"></div>
+
+<div class="picture" style="position: absolute; top: 435px; left: 430px;">
+<img src="http://i1152.photobucket.com/albums/p484/KunaiCupcake/dripdroppin_zpsmrwdhsvw.png" alt="by Lady!" title="by Lady!" height="110" width="60"></div>
+
+
+<div class="picture" style="position: absolute; top: 360px; left: 440px;">
+<img src="http://i66.tinypic.com/6h3wg2.png" alt="by Royal!" title="by Royal!" height="40" width="40"></div>
+
+<div class="picture" style="position: absolute; top: 360px; left: 700px;">
+<img src="http://i65.tinypic.com/swray9.png" alt="by Royal!" title="by Royal!" height="80" width="80"></div>
+
+
+
+<div class="picture" style="position: absolute; top: 200px; left: 570px;">
+<img src="http://i.imgur.com/6uz6x4D.png" alt="by Cy!" title="by Cy!" height="120" width="60"></div>
+
+<div class="picture" style="position: absolute; top: 60px; left: 750px;">
+<img src="http://i.imgur.com/UpGtX9I.png" alt="by Cy!" title="by Cy!" height="40" width="40"></div>
+
+<div class="picture" style="position: absolute; top: 900px; left: 850px;">
+<img src="http://i.imgur.com/EYcfNzx.png" alt="by Cy!" title="by Cy!" height="80" width="80"></div>
+
+<div class="picture" style="position: absolute; top: 660px; left: 600px;">
+<img src="http://i.imgur.com/RFKx9mc.png" alt="by Cy!" title="by Cy!" height="60" width="60"></div>
+
+<div class="picture" style="position: absolute; top: 545px; left: 650px;">
+<img src="http://i.imgur.com/xPUCflJ.png" alt="by Cy!" title="by Cy!" height="100" width="80"></div>
+
+

@@ -1,0 +1,91 @@
+<style>
+div {
+	width: 300px;
+	height: 200px;
+	overflow: auto;
+	text-align: justify;
+	border: 1px solid #000;
+	padding: 10px;
+	display: inline-block;
+}
+h3 {
+	text-align: center;
+	color: #121212;
+	border-bottom: 1px dotted #111;
+}
+</style><center>
+<div>
+<h3>Quartz Den</h3><br>
+Word count: 257<br><br><p>The Quartz dens are up on the second level of dens, up a small ramp that was carved by the paws of countless generations of cats before them. There are six dens, one for each regiment, with the Lapis sleeping in whichever cave they choose, and the Zircon being with their Regiment but that's it. Each den has a number of nests, with each one being kept up by the pebbles and the quartz themselves. The nests are close together to conserve warmth between cats. The ones near the front of the cave are at the right spot to get some sun on them, but most are out of the sun. There is a small walkway between the nests, so that any cat can get in and out without disturbing the others. </p>
+<p>The entrances to the dens are larger than most, able to fit two cats fairly easily. This helps with the protection of the camp, because it expedites the leaving of the den in case of emergency. This of course leads to colder nights, but with the nests so close together, it's not a big problem. </p>
+<p>The dens themselves are about the right size to fit 15 to 20 cats. The ceilings of the dens stretch up high enough to stack two cats on top of each other with a little room to spare. It is the width of three cats standing nose to tail, with a nest on each side and the path down the middle, and stretches back far enough to fit the nests.</p>
+</div>
+<div>
+<h3>Pebble Den</h3>
+<br>
+Word count: 203<br><br><p>The pebble den is higher up on the cliff face than the quartz dens. They are smaller in every way, though the paths into them are equally worn. The entrance is big enough for a full-grown cat to walk through with no problem.</p>
+	<p>The den's roof is about a cat and a half high, and houses about 15 nests. They are rather haphazardly placed, with enough space between them that carefully placed paws will not disturb other cats. However, their placement has been carefully arranged so that the cats bodies are close enough to </p>
+	<p>The path to the dens comes from the base of the camp, past the quartz dens, and just below the edge of the cliff. The sound of the waterfall can be heard clearly here, and many of the pebbles have trouble sleeping for the first few weeks.</p>
+	<p>There is only one den to house the pebbles, since there are rarely enough at one time to fill the den. If there are more than 15 pebbles, the youngest either must stay in the empty nests of the kunzite den, or make room for themselves in the small amount of space that is left on the edges of the pebble den.</p>
+</div>
+<div>
+<h3>Kunzite Den</h3><br>
+Word count: 242<br><br><p>The Kunzite den is at the bottom of the cliff, similar to the Agate's den. This makes it easy for heavily prg cats to go in and out of the den, and stops kits from having to do too much climbing if they do leave the den. Its entrance is small enough that a full-grown cat must push itself inside. The largest cats would definitely have trouble fitting in, if they were able to at all. This acts as a way to protect the kunzite and kits inside.</p>
+<p>Light filters in during the day, warming the stone near the entrance. There are no nests that sit within that patch of warmth, though some kits like to nap there. The entrance comes into the middle of the den. The nests make a ring around a large open patch of stone, where kits can play within the safety of the stone walls.</p>
+<p>This den is bigger than the others, more than 4 cat-lengths across. The 10 nests it houses are in a perfect circle, with each one big enough for the kunzite and a number of kits to stay comfortably. The distance between the nests is larger than most of the other dens, giving each kunzite her privacy. </p>
+<p>The area in the middle is two and a half cat-lengths across in all directions. The area gives enough room for most kit games, and allows for space between the playful kits and their tired mothers.</p>
+</div>
+<div>
+<h3>Silver Den</h3><br>
+Word count: 251<br><br><p>This den is in the same area as the quartz dens, up a few ramps. It is a smaller den, only a few nests at a time fit well into the space. They are not well-worn, as most silvers do not stay in the den for long. In fact, for most of the elder's nests, the branches and palm fronds used to make up the nest are completely above the ground, whereas some of the older nests in the kunzite, quartz, and pebble dens dip below the surface of the stone.</p>
+<p>The dens are evenly spaced, similar to the quartz den – one row of nests, an empty aisle in the middle, and another row of nests. The aisle in the middle is wide enough for a cat to lay out, but not much wider. The silvers, when there is more than one around, like to lay out and talk about the olden days, just out of the too-hot sun, but not too far from the edges of its warmth.</p>
+<p>The entrance to the den is about the size of a cat and a half. It can easily fit any size of cat. Which is handy, especially if a passed elder needs to be dragged out… It also provides a nice open area that allows a lot of sunshine bathing during the day. As the sun sets, the stone at the entrance to the den stays warm for a while longer, leaving the eldest cats some relief before the cold sets in.</p>
+</div>
+<hr><div>
+<h3>Warrior Den</h3><br>
+Word count: 287<br><br><p>The Warrior's den is in one of the biggest trunks in camp. The hollowed shell of the trunk stretches up 80 feet high, its dead branches broken off and stripped by the desert winds so that only a few of the thickest and strongest branches still there, though they have been long since stripped of their bark. The tallest branches reach to the top of the cliff, though they are brittle enough that no cat dares climb into it's bleached husk of branches.</p>
+<p>The trunk has been reinforced with mud and stones of all sizes, including boulders that only several very strong cats could have moved. These layers have made it so that the den itself is sheltered from all the weather around them, and the only obvious signs of the tree are its stretching trunk and meandering roots. An echo of a once-great tree.</p>
+<p>As for the entrance to the den, it is a round opening where the rocks and mud have been placed precisely, allowing any cat to walk straight in. The hole in the side of the tree leads into the trunk. There are a few nests perched on ledges of aging tree, but most are scattered around the main floor of the tree. Natural dips and circles in the root system make for nests that merely need be filled with soft moss. The nests themselves are close together, meaning that moving from a nest to the entrance, or vise versa, is next to impossible with a full den.</p>
+<p>The den houses a large number of nests, though most remain empty at any one time. The whole clan could fit into the  den if they needed to, though it would be a tight fit. </p>
+</div>
+<div>
+<h3>Apprentice Den</h3><br>
+Word count: 221<br><br><p>The apprentice's den lies further from the cliff's face within the boundaries of the camp. It is in a smaller tree, though the little bit of trunk that sticks out from its remains hints at a tree that must have been larger than any other around. The den is built out of a fallen log that was severely damaged. Its round edges curve nicely into nests for the apprentices, so that they all lay in a neat line from one entrance backward into the darkness of the trunk's safety.</p>
+	<p>As with the other Clan dens, generation after generation has built up stone and mud protection around the den. In fact, the apprentice den is almost completely covered, with only a few spots not really needing it left uncovered. However, as soon as the entranceway is breached, the tree trunk becomes much more obvious. The entrance is a jagged triangle, jutting up high enough for a cat to duck into it. This is less of a problem for the littler apprentices, but more a problem for their mentors.</p>
+	<p>The nests are plain, dipping slightly toward the sandy earth, where the tree trunk has long since eroded away from various factors. Sunshine filters through small holes in the side of the trunk, letting in enough light to see by, but not much else.</p>
+</div>
+<div>
+<h3>Nursery</h3><br>
+Word count: 194<br><br><p>The tree that houses the nursery is the bottom part of a tree trunk that broke off long ago, the rest of it forgotten. The trunk stretches up four or five feet, sharp edges poking into the sky. The base of the tree is a larger circle than anything other tree in the area. It allows for plenty of room inside for queens and kits to rest and play. </p>
+<p>The outside is a patchwork of stones and mud, coming up high enough to protect the walls of the den from the elements.  The entrance to the den is an arch of stones over a jagged hole in the trunk. It is big enough for a cat to push itself into, ducking low.</p>
+<p>Inside, the trunk of the tree has been smoothed out by years of kits playing among the roots. The nests slope down into the natural wooden floor. The nests have a lot of space between them, and each one is the right size for two full-grown cats to lay together. There is room in between the nests for kits to play, but it's much more crowded than some of the other dens.</p>
+</div>
+<div>
+<h3>Elders Den</h3><br>
+Word count: 230<br><br><p>The elder den is in another fallen log, somewhere near the edge of camp. It is relatively small, with only a few nests inside. There aren't usually too many elders at once, for a number of reasons. For the same (or similar) reasons, the den is not well-kept. The walls of the den have a few large rocks placed against them, but there is no mud to cement them in place. As such, there are a few holes in the walls of the den, but they are small and there are a few nests that are farther away from those spaces, so the desert elements don't affect them too much.</p>
+<p>The entrance to the den is simply the open end of the log, unobstructed by rocks, leaves, or branches. It is imply a wide, round opening, with the right side slightly sagging from the age of the wood. The nests near the entrance have been abandoned long ago, as more of the entrance falls away to the elements.</p>
+<p>The nests themselves are clustered against the walls, their bedding soft and springy thanks to the apprentice's hard work. The tree itself has given way to the sandy ground below, and so the nests dip down into the hardened sand of the den's floor. The space between the nests varies, as the nests are sprinkled about within the space of the den.</p>
+</div>
+<hr><div>
+<h3>Camp Entrance</h3><br>
+Word count: 270<br><br><p>	The entrance to camp lies on the south east side of camp, directly opposite the cliff face. There is a barrier around camp, but there is a hole in the barrier here.  It is wide enough for a single cat to enter, with brambles wrapped around nearby, so that predators are warded off and outsiders can't simply waltz through.</p>
+<p>	Just within the entrance is the sand pit. This takes up a relatively large amount of space, and is surrounded by a ring of small rocks. They're almost invisible to the eye, just enough to show where the packed sand ends and the quicksand begins.</p>
+<p>	The entrance itself is between two palms, which live from the waters of the oasis and its waterfall. These trees are some of the few that live in the area. Most have gone, but the two entrance trees stand tall. However, the entrance itself is smaller than the gap between the two trees. Approximately three feet separates the smooth trunks, and the entrance in the bramble wall is only a half foot across.</p>
+<p>	The Tribe cats keep watch over the sand pit, and Clan warriors are posted atop small boulders so that they can watch over the wall near the entrance. As you enter camp, the sand pits are on the right and the boulder for the watch is on the left.</p>
+<p>	The ground on either side of the entrance and wall is packed, more than the sand of camp. It is pock-marked with the pawprints of generations. Paws slip into these indentations and one can almost feel the history of the camp itself enveloping oneself_ </p>
+</div>
+<div>
+<h3>Camp</h3><br>
+Word count: 304<br><br><p>	The camp is surrounded on nearly two sides by the cliff. It stretches along the west side initially, and curves all along the northern edge of camp. The Oasis is on the northern side of camp, and it spills over in a waterfall near the northeastern side of camp. The dens in the cave's side are at least a few feet away from the waterfall. The closest den is the pebble den.</p>
+<p>	The cliff is longer than camp itself. It stretches farther than the edges of camp, but the walls that protect the camp cut it off. The section of the wall within the camp is about 30 feet long. And it stretches up 80 feet, tall enough to shadow the whole camp at the right time of day.</p>
+<p>	The camp itself is relatively large. Before the clan joined them, there were no formal walls, but with the clan came the expansion of the camp and the need for more protection. The wall is a mess of brambles, ricks, branches, and palm fronds. The thorns keep cats and predators alike away from the walls and out of (or inside) camp. </p>
+<p>	The cliff and the next 10 feet are reserved for tribe cats, though no one patrols the line, and it's really more of a suggestion. The area close to the cliff has flat rock that has a dusting of sand on it. The area beyond that is hard packed sand, an open area that allows for meeting places. </p>
+<p>	The clan dens are along the edges of the camp, close to the walls. The sand pit stretches a few feet across, opposite the cliff's face. A few trees dot the landscape nearby, but the camp itself is relatively barren of vegetation. There are some bushes and scrubby grass that grows on the edges of camp.</p>
+</div>
+<div>
+<h3>Oasis</h3><br>
+Word count: 180<br><br><p>	The oasis is not a single pool. Instead, it's a number of pools of varying sizes. They dot the top of the cliff, with the main pool being big enough and deep enough for a cat to take a refreshing swim. This is the pool where the spring bubbles up, and underground springs and rivers connect the pools and keep them all full.</p>
+<p>	The other pools are deep enough to wade in, and are usually fuller during the evenings, as the day's sun brings their water levels down. The smallest pool is just deep enough to get into the water up to a cat's knee, and small enough around that there's barely enough room to sit in it.</p>
+<p>	These pools provide water for the vegetation surrounding the oasis. There are a few palm trees, but most of the vegetation is bushes, desert grass, and flowers. They hide some of the smaller pools from sight. Most cats stick to the main pool, as it is closest to the path that leads from the top of the cliff to the oasis's waters. </p>
+</div>
+</center>

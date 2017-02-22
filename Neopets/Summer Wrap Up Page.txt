@@ -1,0 +1,43 @@
+<style>
+tr, td, .sf {
+	display: none;
+}
+body {
+	background: url("http://i.imgur.com/VfuoKlZ.png");
+}
+#wrap {
+	background: #3e3935;
+	width: 810px;
+	height: 800px;
+	margin: 0 auto;
+	border: 10px double #ffb307;
+	color: #e2cd96;
+	font: 8pt georgia;
+	padding: 10px;
+}
+a {
+	text-decoration: none;
+	color: #ad6b0d;
+}
+.map {
+	background: url("http://i.imgur.com/UwVm0KV.png") no-repeat;
+	width: 790px;
+	height: 700px;
+	overflow: hidden;
+	margin: 10px;
+}
+.stall {
+	width: 130px;
+	height: 149px;
+}
+</style><div id="wrap"><center>
+<div class="map" style="position: relative;">
+<a href="/~TehGoldfish" style="position: absolute; top: 14px; left: 304px; width: 227px; height: 148px;"></a>
+<a href="/~qamiel" class="stall" style="position: absolute; top: 211px; left: 177px;"></a>
+<a href="/~TehGoldfish#activ" class="stall" style="position: absolute; top: 367px; left: 432px;"></a>
+<a href="/~Tulima" class="stall" style="position: absolute; top: 167px; left: 523px;"></a>
+<a href="/~LitteShopofHorror" class="stall" style="position: absolute; top: 410px; left: 121px;"></a>
+</div>
+<img src="http://i.imgur.com/Ty0QIwc.png" style="background:#e3af59; padding:3px; border-radius:5px;"><br>
+Content created exclusively for <a href="/guilds/guild.phtml?id=4174208">Mirage</a> by Boom
+</center></div>

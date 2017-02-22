@@ -1,0 +1,81 @@
+<style>
+.sf, td {
+	display: none;
+}
+.tl {
+	display: none;
+}
+body {
+	background-image: url("http://i.imgur.com/5wx2S7b.png");
+	background-color: #016ce0;
+	background-repeat: repeat-x;
+	padding: 0px;
+	margin: 0px;
+}
+h1 {
+	font-size: 18pt;
+	font-family: courier;
+	color: #ff3bae;
+}
+h2 {
+	color: #003980;
+	font: 16pt arial;
+}
+#egg {
+	width: 130px;
+	height: 175px;
+}
+#content {
+	background-color: #d9ebff;
+	top: 50px;
+	left: 50px;
+	width: 360px;
+	height: 300px;
+	font: 8pt 'helvetica';
+	overflow: hidden;
+	padding: 25px;
+	color: #003980;
+}
+a {
+	color: #ff8bae;
+	text-decoration: none;
+}
+</style><div id="content" style="position: absolute;">
+<center><h1><i>|| GRAND EGGSCAPADE ||</i></h1><h2>-~-~-~-~-~-~-~-~-~-~-~-</h2></center>
+
+	Welcome to Mirage's Easter Basket! As you can see, it's pretty empty right now, 
+
+but I'm sure that'll change soon enough. Would you like to decorate an egg? That would 
+
+help!<br><br><img src="http://i.imgur.com/PoyOnj2.png" style="width: 50px; float: right; padding: 8px;">
+
+
+	All you have to do is drag this picture into your URL, save it to your 
+
+computer, open it up in a photo editing program (paint, photoshop, gimp, etc.), 
+
+decorate it, upload it, and send it to <a href="http://www.neopets.com/neomessages.phtml?____type=send&recipient=deja_vu_girl">Boom</a>. Then she'll be sure it makes it safely into 
+
+the basket. Easy peasy!<br><br>
+
+	If you'd like, feel free to paint a second egg. Each one is points, so that 
+
+could be the difference between first and second place!<br><br></div>
+
+<div id="egg" style="position: absolute; top: 159px; left: 859px;"><img src="http://i.imgur.com/xuodxaR.png" width="130" height="164" title="submitted by Cyon"></div>
+
+<div id="egg" style="position: absolute; top: 201px; left: 993px;"><img src="http://i.imgur.com/XvT9nGU.gif" width="130" height="164" title="submitted by Boom"></div>
+
+<div id="egg" style="position: absolute; top: 212px; left: 721px;"><img src="http://i65.tinypic.com/qz3uq8.jpg" width="130" height="164" title="submitted by Revv"></div>
+
+<div id="egg" style="position: absolute; top: 557px; left: 1176px;"><img src="http://i66.tinypic.com/1zw1e3a.png" width="130" height="164" title="submitted by Revv"></div>
+
+<div id="egg" style="position: absolute; top: 251px; left: 568px;"><img src="http://i.imgur.com/azZhgl1.png" width="130" height="164" title="submitted by Kii"></div>
+
+<div id="egg" style="position: absolute; top: 258px; left: 1215px;"><img src="http://i920.photobucket.com/albums/ad45/youbreakitdown/egg2.png" width="130" height="164" title="submitted by Katie"></div>
+
+<div id="egg" style="position: absolute; top: 275px; left: 803px;"><img src="http://i920.photobucket.com/albums/ad45/youbreakitdown/egg1.png" width="130" height="164" title="submitted by Katie"></div>
+
+<div id="egg" style="position: absolute; top: 296px; left: 930px;"><img src="http://i65.tinypic.com/2jezpz8.png" width="130" height="164" title="submitted by Fizz"></div>
+
+<div id="egg" style="position: absolute; top: 498px; left: 717px;"><img src="http://i66.tinypic.com/262l7wm.jpg" width="130" height="164" title="submitted by Fizz"></div>

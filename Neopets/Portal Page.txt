@@ -1,0 +1,106 @@
+<style>
+tr, td, .sf {
+	display: none;
+}
+body {
+	background-image: url("http://orig00.deviantart.net/0d2e/f/2016/195/3/e/big_by_cyphenor-daa0zcf.png");
+	background-repeat: no-repeat;
+	background-color: #151c4d;
+	line-height: 100%;
+}
+
+#wrap {
+	width: 610px;
+	height: auto;
+	overflow: hidden;
+	top: 50px;
+	left: 750px;
+	font: 6pt georgia;
+	color: #e6d4cf;
+}
+
+.button1 {
+	background-image: url("http://i.imgur.com/DNkWYO9.png");
+	margin: 2px;
+	padding-top: 40px;
+	text-align: center;
+	font: 12pt georgia;
+	color: #f0986e;
+	display: inline-block;
+	width: 100px;
+	height: 60px;
+	overflow: hidden;
+}
+
+.button2 {
+	background-image: url("http://i.imgur.com/42xitTF.png");
+	margin: 2px;
+	padding-top: 40px;
+	text-align: center;
+	font: 12pt georgia;
+	color: #f0986e;
+	display: inline-block;
+	width: 100px;
+	height: 60px;
+	overflow: hidden;
+}
+
+.button3 {
+	background-image: url("http://i.imgur.com/mR1Se1k.png");
+	margin: 2px;
+	padding-top: 40px;
+	text-align: center;
+	font: 12pt georgia;
+	color: #f0986e;
+	display: inline-block;
+	width: 100px;
+	height: 60px;
+	overflow: hidden;
+}
+
+.button4 {
+	background-image: url("http://i.imgur.com/0PrUqWt.png");
+	margin: 2px;
+	padding-top: 40px;
+	text-align: center;
+	font: 12pt georgia;
+	color: #f0986e;
+	display: inline-block;
+	width: 100px;
+	height: 60px;
+	overflow: hidden;
+}
+
+a {
+	font: 12pt georgia;
+	color: #f0986e;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #e6d4cf;
+	background-image: url("http://i.imgur.com/vXZopoa.png");
+}
+
+
+</style>
+
+<div id="wrap" style="position: absolute">
+<center><img src="http://i.imgur.com/5LlZHN4.png"><br></center>
+<div class="button1" style="position: relative"></div>
+<a href="/~1234_5678_910" class="button4" style="position: relative">MEMBERS</a>
+<a href="/~attacket" class="button3" style="position: relative">AGATE</a>
+<a href="/~Mcristopherichael" class="button2" style="position: relative">NEWSPAPER</a>
+<div class="button1" style="position: relative"></div>
+<a href="/guilds/guild.phtml?id=4174208" class="button2" style="position: relative">GUILD</a>
+<a href="/~attisk" class="button4" style="position: relative">SITE</a>
+<a href="/~TuskaninnyYo" class="button4" style="position: relative">CHARACTER</a>
+<a href="/~winkinglizard" class="button1" style="position: relative">TERRITORY</a>
+<a href="/~pansilla" class="button3" style="position: relative">NEWBIE</a>
+<div class="button3" style="position: relative"></div>
+<a href="/~xiansuko" class="button2" style="position: relative">TIMELINE</a>
+<a href="/~dukedrake" class="button1" style="position: relative">RP LOG</a>
+<a href="/~Dolf1" class="button2" style="position: relative">LINEAGE</a>
+<a href="/~darjub" class="button3" style="position: relative">EVENT</a>
+<br>Coding by Boom for Mirage only. Background image by Cy. Button images and portal header by Boom.
+</div>

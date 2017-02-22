@@ -1,0 +1,59 @@
+<style>
+.sf, table {
+	display: none;
+}
+.tl {
+	display: none;
+}
+
+body {
+	background: #233912;
+}
+
+.content {
+	border: 2px solid #bb0000;
+	height: 400px;
+	width: 500px;
+	font: 8pt georgia;
+	color: #cfe59d;
+	float: left;
+	padding: 20px;
+	text-align: center;
+}
+
+.container {
+	width: 1000px;
+	height: 450px;
+	overflow: hidden;
+	margin: 20px;
+}
+
+.present {
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	margin: 10px;
+}
+
+</style>
+
+<div class="container">
+<img src="http://i67.tinypic.com/2dw68gg.png" alt="Boom. I mean. Santa." height=400 style="float:left; margin: 20px;">
+<div class="content" style="border-radius:10px;">
+<p>Welcome to the 6 days of Mirage-mas, part of our Frost Fest event!</p>
+
+<p>If you've heard the song "The Twelve Days of Christmas, then you already know exactly what this is! Well, sort of. We figured no one really wanted a 12-day event, so we opted for half! In The Twelve Days of Christmas, each gift is given starting on Christmas, and then following after. Plus for super secret timing reasons, it works out better for us to start our holiday event after Christmas. So here we are!</p>
+
+<p>Boom Santa has made a list, and checked it twice. but she's always been a fan of slow and steady rewards, instead of the instant gratification that that jolly madman usually puts us through. So for the nice little goldfish of Mirage, she has a set of six presents. One for each of the 6 days of Mirage-mas! Please be sure to accept the gifts in a timely manner, or you may miss out on something special!</p>
+
+<p>In addition to the cool gifts you'll be getting, there are even more in-character surprises in store! Keep a careful watch on the roleplay during the event to get some clues for the big reveal at the end of the event!</p>
+
+<p>If you have any questions about this page, feel free to contact Boom.</p> 
+<img src="http://images.neopets.com/items/plu_xmaskookith.gif" class="present" alt="Christmas Kookith Plushie" title="Christmas Kookith Plushie">
+<img src="http://images.neopets.com/items/rubber_gloves.gif" class="present" alt="Ultra Rubber Gloves" title="Ultra Rubber Gloves">
+<img src="http://images.neopets.com/items/sch_rainbowglitterpens.gif" class="present" alt="Rainbow Glitter Pens" title="Rainbow Glitter Pens"><br>
+<img src="http://images.neopets.com/items/bbo_kreludan_crossword.gif" class="present" alt="Kreludan Crosswords" title="Kreludan Crosswords">
+<img src="http://images.neopets.com/items/groom_star_rings.gif" class="present" alt="Superstar Earrings" title="Superstar Earrings">
+<img src="http://i.imgur.com/SFwqFvM.png" class="present">
+</div>
+</div>

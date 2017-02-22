@@ -1,0 +1,236 @@
+<style>
+tr, td, .sf {
+	display: none;
+}
+body {
+	background: #85d7f2;
+}
+.page {
+	height: 400px;
+	width: 2000px;
+	overflow: hidden;
+	background: #ab8c67;
+}
+.content {
+	width: 200px;
+	height: 350px;
+	overflow: auto;
+	background: #d2a49a;
+	font: 9pt georgia;
+	color: #eaeaea;
+	float: left;
+	padding: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	border: 2px #85d7f2 solid;
+	display: inline;
+}
+textarea {
+	width: 80px;
+	height: 20px;
+	overflow: hidden;
+	background: #d2a49a;
+	color: #85d7f2;
+}
+a {
+	text-decoration: none;
+	color: #85d7f2;
+}
+
+</style>
+<div class="page">
+<div class="content">
+<p>Welcome to the custom icon page of <a href="/~attisk">Mirage</a>. Here, our goldfish can order their own magical avatars to be displayed along with their <a href="/~1234_5678_910">member profiles</a>. If you're just visiting, feel free to have a look around. If you're a member looking to order your icon, please fill out the following form and neomail it to <a href="http://www.neopets.com/neomessages.phtml?type=send&recipient=deja_vu_girl&subject=Icon+Submission">Boom</a>.</p>
+<center><textarea>
+Name: 
+Item: 
+Border: 
+Color: 
+Font: 
+Animation: 
+</textarea></center>
+<br>
+</div>
+<div class="content">
+
+<h3>Choosing an Item:</h3>
+<hr>
+<p>	If you have a favorite item, just let me know! If you aren't sure what item fits your personality best, poogle Neocodex's item database. Boom just needs the name of the item. Everything else is movie magic!</p>
+<br>
+</div>
+<div class="content">
+
+<h3>Choosing a Color:</h3>
+<hr>
+<p>	There are three options for this part. With the first two, either provide a hex code (#349afc) or a color name ("red").<br>
+<ol>
+<li>Choose your favorite color. Whether or not it's in the image, any color can make a good background.</li>
+<li>Choose a color from the image. This method was used in many of our already existing icons.</li>
+<li>Let the random number generator choose for you! Boom will grab six random numbers and make a cool new color for you.</li>
+</ol></p>
+<br>
+</div>
+<div class="content">
+
+<h3>Choosing a Border:</h3>
+<hr>
+<p>	Please choose from the following list of borders.</p>
+<ul>
+<li>Square</li>
+<li>Cut Corners</li>
+<li>One Sharp Edge</li>
+<li>Circle</li>
+<li>Fluffy and Puffy</li>
+<li>Jagged Edge</li>
+</ul>
+<br>
+</div>
+<div class="content">
+<h3>Choosing a Font:</h3>
+<hr>
+<p>	Please choose from one of the following fonts. If you need to request a different one, please feel free, but we have confidence in our font-picking ability!</p>
+<center><img src="http://i.imgur.com/OzfCvC7.png">
+<img src="http://i.imgur.com/k1YRxQq.png">
+<img src="http://i.imgur.com/4QqmbQh.png">
+<img src="http://i.imgur.com/sah6Ubz.png">
+<img src="http://i.imgur.com/u5L1y4l.png">
+<img src="http://i.imgur.com/oQJTfDo.png"></center>
+<br>
+</div>
+<div class="content">
+<h3>Choosing an Animation:</h3>
+<hr>
+<p>	Please choose from one of the following animations.</p>
+<center><img src="http://i.imgur.com/xwLt85l.gif">
+<img src="http://i.imgur.com/N8YLt3v.gif">
+<img src="http://i.imgur.com/TgCczKk.gif">
+<img src="http://i.imgur.com/hCk8L2r.gif">
+<img src="http://i.imgur.com/TRBSkHI.gif">
+<img src="http://i.imgur.com/wuU14JK.gif">
+<img src="http://i.imgur.com/zCDJeMv.gif"></center>
+<i>Note: Please indicate Sparkle 1 for the "one at a time" sparkle, and Sparkle 2 for the "group" sparkle. Sorry about that!</i>
+<br><br>
+</div>
+<div class="content">
+<h3>Examples</h3>
+<hr>
+<p>	If you want to know what your icon might look like, please feel free to look at our <a href="/~1234_5678_910">member page</a> or below. The icons below were created but no longer belong on our member page.</p>
+
+
+<center><img src="http://i.imgur.com/nylQXtL.gif"></center><br>
+<ul>
+<li><b>Item:</b> Neopian Times Quill</li>
+<li><b>Color:</b> 4e176c</li>
+<li><b>Border:</b> One Sharp Corner</li>
+<li><b>Font:</b> Chancery Cursive</li>
+<li><b>Animation:</b> Sparkle</li>
+</ul>
+<br>
+<hr>
+<br>
+
+
+<center><img src="http://i.imgur.com/1GtaxVq.gif"></center><br>
+<ul>
+<li><b>Item:</b> New pet!</li>
+<li><b>Color:</b> Neon Purple</li>
+<li><b>Border:</b> Jagged/Wavy edge</li>
+<li><b>Font:</b> Little Bird</li>
+<li><b>Animation:</b> Sparkle</li>
+</ul>
+<br>
+<hr>
+<br>
+
+<center><img src="http://i.imgur.com/H8O5Hz7.gif"></center><br>
+<ul>
+<li><b>Item:</b> Coffee Service</li>
+<li><b>Color:</b> #008080</li>
+<li><b>Border:</b> One Sharp Edge</li>
+<li><b>Font:</b> Georgia</li>
+<li><b>Animation:</b> Sparkle</li>
+</ul>
+<br>
+<hr>
+<br>
+
+<center><img src="http://i.imgur.com/jKPA7Dc.gif"></center><br>
+<ul>
+<li><b>Item:</b> Raspberry Chocolate Nova</li>
+<li><b>Color:</b> Random</li>
+<li><b>Border:</b> Oval</li>
+<li><b>Font:</b> Wednesday</li>
+<li><b>Animation:</b> Sparkle</li>
+</ul>
+<br>
+<hr>
+<br>
+
+<center><img src="http://i.imgur.com/vUKdXUs.gif"></center><br>
+<ul>
+<li><b>Item:</b> Chocolate Draik</li>
+<li><b>Color:</b> #D4AF37</li>
+<li><b>Border:</b> Circle</li>
+<li><b>Font:</b> Wonder Boy</li>
+<li><b>Animation:</b> Glow</li>
+</ul>
+<br>
+<hr>
+<br>
+
+<center><img src="http://i.imgur.com/STJ5nlR.gif"></center><br>
+<ul>
+<li><b>Item:</b> Mootix Plushie</li>
+<li><b>Color:</b> Random</li>
+<li><b>Border:</b> Cut Corners</li>
+<li><b>Font:</b> Wonder Boy</li>
+<li><b>Animation:</b> Swish</li>
+</ul>
+<br>
+<hr>
+<br>
+
+
+<center><img src="http://i.imgur.com/12XwAIG.gif"></center><br>
+<ul>
+<li><b>Item:</b> Angelpuss</li>
+<li><b>Color:</b> Blue</li>
+<li><b>Border:</b> Jagged Edge</li>
+<li><b>Font:</b> Little Bird</li>
+<li><b>Animation:</b> Glow</li>
+</ul>
+<br>
+<hr>
+<br>
+
+<center><img src="http://i.imgur.com/66GhSNk.gif"></center><br>
+<ul>
+<li><b>Item:</b> Rose Bouquet</li>
+<li><b>Color:</b> Lavender</li>
+<li><b>Border:</b> Fluffy & Puffy</li>
+<li><b>Font:</b> Georgia</li>
+<li><b>Animation:</b> Sparkle</li>
+</ul>
+<br>
+<hr>
+<br>
+
+<center><img src="http://i.imgur.com/P9fnvWx.gif"></center><br>
+<ul>
+<li><b>Item:</b> Stone Shield</li>
+<li><b>Color:</b> Choice</li>
+<li><b>Border:</b> Square</li>
+<li><b>Font:</b> Little Bird</li>
+<li><b>Animation:</b> One At A Time</li>
+</ul>
+<br>
+<hr>
+<br>
+
+
+<br>
+</div>
+</div>
+<center><img src="http://i1125.photobucket.com/albums/l587/BoomMoon/IconPageFooter.png"></center>

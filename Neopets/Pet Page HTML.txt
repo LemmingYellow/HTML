@@ -1,0 +1,492 @@
+<style>
+body {
+	background: #eceae9;
+}
+.sf {
+	display: none;
+}
+.smallfont {
+	font: 6pt arial;
+	color: #BCC0F3;
+	font-weight: bold;
+	letter-spacing: 0.5;
+	text-transform: uppercase;
+}
+table {
+	background: none;
+}
+td {
+	visibility: hidden;
+}
+b {
+	font-weight: bold;
+	color: #eb9f9f;
+}
+i {
+	font-family: georgia;
+	font-style: italic;
+	color: #d7a7a6;
+}
+a:link, a:visited {
+	text-decoration: none;
+	font-weight: bold;
+	color: #f1bbba;
+}
+h1 {
+	font: 20pt tahoma;
+	letter-spacing: -1px;
+	color: #f1bbba;
+	text-align: right;
+	padding-right: 5px;
+	border-bottom: 3px solid #f8ecc9;
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+h2 {
+	font: 15pt tahoma;
+	letter-spacing: -1px;
+	color: #6b5344;
+	text-align: left;
+	padding-right: 5px;
+	border-bottom: 3px solid #d7a7a6;
+	margin-top: 8px;
+	margin-bottom: 2px;
+}
+#credits {
+	top: 745px;
+	left: 830px;
+	width: 600px;
+	height: 0px;
+	color: #dc5848;
+	font: 15px helvetica;
+	background: none;
+}
+#stripe {
+	background: #332623;
+	font-size: 11px;
+	font-family: verdana;
+	color: #000000;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 160px;
+	overflow: auto;
+	text-align: justify;
+	border-bottom: 5px black solid;
+}
+#textbox {
+	background: #ffffff;
+	font-size: 12px;
+	font-family: verdana;
+	color: #000000;
+	left: 150px;
+	top: 30px;
+	width: 797px;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 710px;
+	overflow: auto;
+	text-align: justify;
+}
+#contentbox {
+	background: transparent;
+	font-size: 11px;
+	font-family: verdana;
+	color: #000000;
+	left: 160px;
+	top: 180px;
+	width: 790px;
+	height: 620px;
+	overflow: auto;
+	text-align: justify;
+}
+#navbox {
+	background: transparent;
+	font-size: 10px;
+	font-family: verdana;
+	color: #000000;
+	left: 160px;
+	top: 40px;
+	width: 780px;
+	padding-left: 5px;
+	padding-right: 0px;
+	height: 130px;
+	overflow: hidden;
+	text-align: justify;
+}
+.content {
+	width: 770px;
+	height: 540px;
+	overflow: hidden;
+	padding: 3px;
+	padding-right: 15px;
+}
+.content .text {
+	width: 770px;
+	height: 540px;
+	overflow: auto;
+	padding: 3px;
+	padding-right: 15px;
+}
+a.nav:link, a.nav:active, a.nav:visited {
+	display: block;
+	font: 22pt tahoma;
+	height: 100px;
+	width: 153px;
+	float: left;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-style: normal;
+	padding-top: 20px;
+	background-color: #A79C8E;
+	text-decoration: none;
+	border-bottom: 5px #958b7f solid;
+}
+a.nav:hover {
+	background: #958b7f;
+}
+a.nava:link, a.nava:active, a.nava:visited {
+	display: block;
+	font: 22pt tahoma;
+	height: 100px;
+	width: 153px;
+	float: left;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-style: normal;
+	padding-top: 20px;
+	background-color: #f8ecc9;
+	text-decoration: none;
+	border-bottom: 5px #ddd3b3 solid;
+}
+a.nava:hover {
+	background: #ddd3b3;
+}
+a.navi:link, a.navi:active, a.navi:visited {
+	display: block;
+	font: 22pt tahoma;
+	height: 100px;
+	width: 153px;
+	float: left;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-style: normal;
+	padding-top: 20px;
+	background-color: #f1bbba;
+	text-decoration: none;
+	border-bottom: 5px #d7a7a6 solid;
+}
+a.navi:hover {
+	background: #d7a7a6;
+}
+a.navo:link, a.navo:active, a.navo:visited {
+	display: block;
+	font: 22pt tahoma;
+	height: 100px;
+	width: 153px;
+	float: left;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-style: normal;
+	padding-top: 20px;
+	background-color: #eb9f9f;
+	text-decoration: none;
+	border-bottom: 5px #d28e8e solid;
+}
+a.navo:hover {
+	background: #b38074;
+}
+a.nave:link, a.nave:active, a.nave:visited {
+	display: block;
+	font: 22pt tahoma;
+	height: 100px;
+	width: 153px;
+	float: left;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-style: normal;
+	padding-top: 20px;
+	background-color: #e08570;
+	text-decoration: none;
+	border-bottom: 5px #b38074 solid;
+}
+a.nave:hover {
+	background: #d7a7a6;}
+.bio {
+	width: 195px;
+	height: 200px;
+	overflow: auto;
+	border: 4px solid #000000;
+	display: inline-block;
+}
+.updates {
+	width: 600px;
+	height: 150px;
+	overflow: auto;
+	text-align: left;
+	font: 11px Verdana;
+	line-height: 19px;
+	border: 1px solid #CCCCCC;
+	padding: 20px;
+}
+</style><div id="stripe" style="position: fixed;"></div>
+<div id="textbox" style="position: fixed;"></div>
+<div id="navbox" style="position: fixed;">
+<a class="nav" href="#home">home</a>
+<a class="nava" href="#one">|Camel|<br>|  star  |</a>
+<a class="navi" href="#two">~Thistle~<br>~belly~</a>
+<a class="navo" href="#three">Feather</a>
+<a class="nave" href="#four">Shadow</a></div>
+<div id="contentbox" style="position: fixed;">
+
+<div class="content">
+
+<a name="home" id="home"></a>
+<div class="text">
+
+
+<h1>welcome to my page!</h1>
+Thanks for visiting my character page! This one contains all my cats for my guild, <a href="http://www.neopets.com/guilds/guild.phtml?id=4174208">Mirage</a>. If you have any questions, shoot me a neomail.<br><br><br><h2>Update History</h2>
+<div class="updates">
+March 31, 2016
+<hr>
+<ul>
+<li>Thanks to Cyon and Fizz for help with my css!</li>
+<li>Added Shadow's info</li>
+</ul>
+
+<br><br>March 25, 2016
+<hr>
+<ul>
+<li>Created pages for Thistlebelly and Feather</li>
+<li>More editing yay</li>
+</ul>
+
+<br><br>March 7, 2016
+<hr><ul><li>Got original css from <a href="/~colorblock">colorblock</a></li>
+<li>Did a lot of editing</li>
+<li>Created page for Camelstar</li>
+</ul></div>
+
+<br><br><br>
+--Quick Overview--<br>
+<div class="bio"><img src="http://i1125.photobucket.com/albums/l587/BoomMoon/Camelstar.jpg"><br><br><font size="2"><i>Camelstar<br><ul><li>Clan - Leader</li>
+<li>Age: 38 moons</li>
+<li>Gender: Male</li>
+</ul></i></font></div>
+
+<div class="bio"><img src="http://i1125.photobucket.com/albums/l587/BoomMoon/Thistlebelly.jpg"><br><br><font size="2"><i>Thistlebelly<br><ul><li>Clan - Queen</li>
+<li>Age: 24 moons</li>
+<li>Gender: Female</li>
+</ul></i></font></div>
+<br>
+<div class="bio"><img src="http://i1125.photobucket.com/albums/l587/BoomMoon/FeatherFallingOnWater.jpg"><br><br><font size="2"><i>Feather Falling on Water<br><ul><li>Tribe - Guardian(Keeper)</li>
+<li>Age: 20 moons</li>
+<li>Gender: Male</li>
+</ul></i></font></div>
+
+<div class="bio"><img src="http://i1125.photobucket.com/albums/l587/BoomMoon/AdderSlitheringInShadow.jpg"><br><br><font size="2"><i>Adder Slithering in Shadow<br><ul><li>Tribe - Dust</li>
+<li>Age: 0 moons</li>
+<li>Gender: Female</li>
+</ul></i></font></div>
+
+</div>
+
+<a name="one" id="one"></a>
+<div class="text">
+<h1>CAMELSTAR</h1>
+<font size="2"><div align="right"><i>masquerading as a man with a reason</i></div></font><br><center><img src="http://www.petful.com/wp-content/uploads/2013/04/Havana_Brown-featured.jpg" width="600" height="400"></center><br>
+<br><h2>Basics</h2>
+<font size="2"><div align="right"><i>my charade is the event of the season</i></div></font><br><br>
+-- CLAN CAT<br>
+-- Camelstar<br>
+-- 38 moons<br>
+-- Leader<br>
+-- Male<br><br>
+Camelstar is a slightly larger than average tom with short, sandy brown fur and fierce yellow eyes.<br><br><h2>Personality</h2>
+<font size="2"><div align="right"><i>and if i claim to be a wise man</i></div></font><br>
+
+QUICK: He is gruff and runs a tight ship, but has been known to show compassion, especially for kits. He'll deny it if anyone ever mentions it, though.<br><br>
+DETAILED:<br><p>Camelstar has a sharp wit, but keeps his decisions logical. He cares about the safety and longevity of the clan, and as such keeps a very close eye on everything that happens within it. He can be seen as almost a drill sergeant, making sure no cat steps out of line.</p>
+<p>However, he has a hidden compassion toward kits, and takes a special interest in the raising of each one. He will play fight with them when he thinks no one is watching.</p>
+<p>His gruff nature can be taken poorly, but the cats of the clan have learned to appreciate the good and the bad together.</p>
+<br><br><h2>History</h2>
+<font size="2"><div align="right"><i>it surely means that i don't know</i></div></font><br><p>Camelstar was taught very early on not to trust the tribe cats, though he still found them fascinating. Because they treated themselves as superior, his father had always hated them, and he grew to hate them as well. His mother was indifferent and did nothing to affect his feelings either way.</p>
+<p>As an <i>apprentice</i>, Camelpaw took on knowledge quickly, learning everything that he could. His mentor loved the challenge of teaching him as much as he loved learning. It wasn't long before the leader took notice and personally praised him on his good work.</p>
+<p>He gained his <i>warrior</i> name, Cameltail, and continued training, taking on tasks that other cats dragged their feet about doing. He became blunt and aggravated at his clanmates' laziness and pushed himself even harder to try to pick up the slack.</p>
+<p>As he grew, he became closer to one of the she-cats that had grown up with him, Brindleheart. They eventually became mates, but before their first litter was born she dxed in a pit of quicksand that no one knew was there. This led to Cameltail caring deeply about each kit born from then on.</p>
+<p>He was promoted to <i>deputy</i> when the former deputy dxed on a hunting patrol. The leader had been watching Cameltail for a long time and it seemed like an easy choice for both cats. However, there were many older warriors who felt slighted that such a young cat would take over the spot before them. The leader stood up for Cameltail and put their minds at ease.</p>
+<p>After a few more moons, the leader lost his last life, and Cameltail became Camelstar, the <i>leader</i> of the Clan. He kept his clan under harsh rules, but only for their own good.</p>
+<br><br><br><br><br>
+
+Most Recent Posts:<br>
+Gray && Camel (last post: 4/5/16)<br>
+<div class="updates">
+<p>Camelstar hadn't gotten very far into his meal when Graytalon stepped out of the warrior's den. He gulped heavily to get down the bite he had in his mouth, almost choking on it. She was gorgeous, more beautiful than he remembered, though it hadn't been that long since he had last seen her. He wanted to run up to her and tell her this, but he thought that would be quite ridiculous, especially since she may not feel the same way about him. If this was... feelings? Did he really... have feelings for...?</p>
+
+<p>Before he could finish the thought, Graytalon grabbed a mouse and headed toward him. He got suddenly nervous. He wanted to speak with her, but what if he screwed it all up? What if she didn't feel the same way. And now she was headed right this way, a juicy mouse hanging from her jaws. He shifted slightly, but forced himself to remain calm and still, and to act like he hadn't been watching her the whole time.</p>
+
+<p>She dropped the mouse to the ground and he very carefully watched her tongue slide across her lips. It took him a minute to realize that she had asked a question, and his brain hopped back to try to figure out what she had asked. Of course, he couldn't ignore her beautiful voice, and the adorable squeak of her nervousness. Wait, if she was nervous than did that mean she liked him, too?</p>
+
+<p>He nodded, "Yeah, want to sit next to me? Maybe we could share?" He asked, shifting over to make an obvious spot next to him. He purred softly, excited to share tongues with her. He hadn't actually shared tongues with another cat since he had appointed Stormheart as Deputy. He was suddenly very excited for their time together, especially since it was Graytalon. His purr got louder as he thought about it. He wasn't worried if she heard it - he was just so happy.</p>
+
+</div><br><br><br>
+Camelstar & <a href="/~Mistsight#dawn">Dawnflower</a> (finished 4/2/16)<br>
+<div class="updates">
+<p>Camelstar nodded sympathetically. "Take your time, Dawnflower. Grieving takes time, and is different for everyone. Come back to your duties when you're ready." He nodded and continued, "After all, we wouldn't want you to get hurt if you aren't 100% when you come back."</p>
+
+<p>When she turned back toward the sand, he turned away. As he padded away, he flicked his tail over her shoulders for a moment in a show of further sympathy. He knew it wouldn't be enough to just tell her that things would get better, but he knew that it had helped fractionally to hear that he could take his time to get back to where he had been.</p>
+</div>
+<br>
+
+</div>
+
+
+
+<a name="two" id="two"></a>
+<div class="text">
+<h1>THISTLEBELLY</h1>
+<font size="2"><div align="right"><i>you make me live</i></div></font><br><center><img src="http://photorasa.com/wp-content/uploads/2013/11/ginger-tabby-face.jpg" width="600" height="400"></center>
+<br><br><h2>Basics</h2>
+<font size="2"><div align="right"><i>whenever this world is cruel to me</i></div></font><br><br>
+-- CLAN CAT<br>
+-- Thistlebelly<br>
+-- 24 moons<br>
+-- Queen<br>
+-- Female<br><br>
+Thistlebelly is an average sized she-cat with ginger tabby fur, marked with a white belly, mussle, and paws/tailtip, with yellow eyes.
+
+<br><br><h2>Personality</h2>
+<font size="2"><div align="right"><i>i got you to help me forgive</i></div></font><br>
+
+QUICK: She is kind and caring, making her perfect for her role in the Clan.<br><br>
+DETAILED:<br><p>Thistlebelly has always had a soft and compassionate side. She spent most of her time as an apprentice in the nursery, helping out the queens with their unruly kits. She really liked the idea of being a queen more than being a warrior, because her instincts lent themselves to caring for kits more than fighting their enemies.</p>
+<p>She wears her heart on her sleeve, and gets offended easily. She doesn't do well at hiding her emotions, and her felow apprentices and warriors have always made fun of her for getting upset so easily.</p>
+<p>Thistlebelly is protective of her Clanmates, as well as the Tribe cats who live alongside them. She is more than willing to fight to protect her kits and her Clan. But she will not fight for no reason. She's more of a gossip.</p>
+
+
+<br><br><h2>History</h2>
+<font size="2"><div align="right"><i>you make me live now, honey</i></div></font><br><p>Thistlebelly has always been in awe of the Tribe that live with the Clan cats. She spent a lot of time as a <i>kit</i> trying to learn all about them, and the more she learned, the more she wanted to know.</p>
+<p>When she became an <i>apprentice</i>, she split her time between training and helping the Queens in the nursery. They taught her about their experience, and she became more interested in the life of a queen than of a warrior.</p>
+<p>However, her curiosity about the powerful Tribe cats never waned. She nearly got herself exiled for trying to talk to the Onyx, but one of the Tribe cats intercepted her and sent her back to the Clan camp. She had a whole list of questions, but chose not to press her luck.</p>
+<p>She gained her <i>warrior</i> name, Thistlebelly, because of her coloring. She spent the next moon working as a warrior, but found that she was more at home in the nursery. She made a relation and had a litter of kits, and soon after wanted another and another. She loved being a mother.</p>
+
+<br><br><br>
+Most Recent Posts:<br>
+Thistlebelly's Intro (Last post: 4/2/16)
+<div class="updates">
+<p>Thistlebelly had a tendency to sleep late. She hated the heat of the day and the cold of the night. So instead of going out to see what the Onyx was yowling about now, she stayed put in her warm den. Besides, if anyone needed her, they knew where to find her.</p>
+
+<p>It had been a few months since the queen had watched her first litter receive their apprentice names and moved out from the nursery. She had had the company of Dawnflower for a while as she reached the end of her pregnancy, but then after the dxaths of her kits, she hadn't been much company at all.</p>
+
+<p>Thistlebelly laid in her nest, wondering what she would be doing the rest of the day. She wanted another litter, despite the amount of energy it took to raise the last bunch. But she also felt some part of her wanted to go back to being a warrior for a bit. She contemplated her options while grooming her short orange pelt, a soft purr blossoming through her body.</p>
+
+<p>Camelstar's visit had been short that morning, since there were no kits in the nursery. He had asked a few questions about Dawnflower before heading out. She admired her leader's ability to cover up his adoration toward kits and act like such a jerk the rest of the time. She huffed out a sigh. He would be a fantastic father, if he ever got the chance again after Brindleheart. Thistlebelly had been a kit when the leader's mxte passed, but she had heard the stories from the elders and her mother as well.</p>
+
+<p>She stood up and stretched, finally becoming hungry enough to venture out of the den and into the sun. It was mid afternoon by this point, and so she knew most of the patrols would be returning by now with their hunts. That meant fresher food for her. She took a juicy lizard from the pile, pulled the less desirable half off and dragged it to the sand pit as sacrifice. Then she sat down in the shade of the cliffs to eat her meal, looking out at the camp and thinking about what the other cats were doing, her yellow eyes half closed.</p>
+</div>
+<br><br>
+</div>
+
+<a name="three" id="three"></a>
+<div class="text">
+<h1>FEATHER FALLING ON WATER -- FEATHER</h1>
+<font size="2"><div align="right"><i>when the darkness comes</i></div></font><br>
+<center><img src="http://www.animalshelterrelief.org/yahoo_site_admin/assets/images/long-hair-Grey-Cat-Breeds.4124832_large.jpg"></center><br>
+
+<br><br><h2>Basics</h2>
+<font size="2"><div align="right"><i>and the pain is all around</i></div></font><br>
+-- TRIBE CAT<br>
+-- Feather<br>
+-- 20 moons<br>
+-- Void; Gaurdian; Keeper<br>
+-- Male<br><br>
+Feather is a large tom with bushy gray fur and soft yellow eyes.
+
+<br><br><h2>Personality</h2>
+<font size="2"><div align="right"><i>like a bridge over troubled water</i></div></font><br>
+QUICK: Feather is blunt and cares little for his Tribemates.<br><br>
+DETAILED: Feather has always had trouble making friends, and part of that might be his lack of empathy. He doesn't seem to care what others are feeling, and rarely feels anything himself.<br>
+Part of the problem stems from the fact that he is a void cat. Although it's perfectly normal for a cat to be born without supernatural powers, he was the only cat in a litter of 4 who came out void. It was tough on him, and he learned to just shut it all out.<br>
+In fact, some even think of the young warrior as aloof, despite the fact that he doesn't really do anything to deserve the title.
+
+
+<br><br><h2>History</h2>
+<font size="2"><div align="right"><i>i will lay me down</i></div></font><br>
+<p>As a <i>dust</i>, Feather was always mocked by his siblings for not having powers like him. He felt like his parents liked him less because of his void status. He learned to hide the emotions they tried so hard to tease out of him very early.</p>
+<p>When he reached the <i>pebble</i> stage, he had so pushed down his emotions that they rarely surfaced anymore. He trained hard and became very skil1ed. It wasn't long before he reached the rank of <i>quartz</i> and began as a Keeper of the Tribe. </p>
+<br><br><br>
+
+
+Most Recent Posts: <br>
+Feather's Intro (Last post: 3/25/16)<br>
+<div class="updates">
+<p>Feather winced slightly away from the Onyx as he was corrected about the Cats of the Sand. He noticed that his leader was very much focused on the pool in front of him. Feather had been up here many times before to gather water to help with the mud fortification of the dens, and just to sit and relax sometimes as well. But it was just a pool. He didn't see any symbolism, nothing special beside the fact that it was an oasis in the otherwise unforgiving desert.</p>
+
+<p>Thunder talked about the fact that the oasis, the pool, was the reason they were all alive. Maybe Feather would appreciate the talk more if he had spent any amount of time in the desert. He had gone out to Rattlesnake Rock to move from being a pebble to a Keeper, but that was about it, since he had pretty much been trained for this position as soon as he hit an age where they could tell exactly how bulky he was going to be.</p>
+
+<p>He tilted his head and shook out his fur, then stepped forward when Thunder indicated that he should do so. He didn't dare to go against the Onyx more than he already had that morning.</p>
+
+<p>Feather listened carefully as Thunder explained the pool's symbolism as the generations, as lives of cats. He had never really thought about that. And after the scolding about his lack of faith earlier, he was really trying to focus on the Onyx's words. His yellow eyes followed the leader's paws and stared into the water. He closed his eyes and nodded, picturing himself as one of the ripples in the pool, flowing along with his kin and his tribemates, rumbling ever closer to the end, to the shore...</p>
+
+<p>He was suddenly not okay with this metaphor. he tried to keep his outside calm and listen carefully, but something about the idea of his doom approaching like a ripple in a pond, just... ending like that? It bothered him a lot. He shifted slightly and then nearly jumped out of his skin when Thunder put the leaf down.</p>
+
+<p>"O-okay, sir," he mumbled, trying to pass his stutter off as respect and failing. He gingerly picked up the green leaf and placed it gently toward the edge of the pool. He sat back and watched as the leaf gently floated on the water.</p>
+
+<p>It didn't take long before the hxle in the leaf allowed too much water through and the leaf was pulled beneath the waves. Feather stood up and backed away from the pool. He was internally freaking out, but trying not to show it. "Thank you, Thunder. The point has been made." He ducked his head in a show if thankful respect and took another step back.</p>
+
+<p>"I think I should be getting back to camp," he said. "It has been a long night, and I am to be part of the watch tonight as well. So. Uh. Thank you again." He backed up a few more steps, his eyes darting between the pool and the Onyx. The leaf that the water had swallowed up and pushed out of the way. The ripples that signaled his dxath and the dxath of each of the other cats he currently helped keep safe.</p>
+</div>
+<br><br>
+</div>
+
+<a name="four" id="four"></a>
+<div class="text">
+<h1>ADDER SLITHERING IN SHADOW -- SHADOW</h1>
+<font size="2"><div align="right"><i>song lyrics here</i></div></font><br><center><img src="http://i.imgur.com/zgN5x9x.jpg" width="600" height="400"></center><br><br>
+<img src="http://i1125.photobucket.com/albums/l587/BoomMoon/AdderSlitheringInShadowSmaller.jpg"><br>
+<div class="updates">
+Post will go here~!
+</div>
+<br><br>
+<h2>Basics</h2>
+<font size="2"><div align="right"><i>song lyrics here</i></div></font><br><br>
+-- TRIBE CAT<br>
+-- Shadow<br>
+-- 0 moons<br>
+-- Prophecy; Dust<br>
+-- Female<br><br>
+Shadow is an average-sized she-cat with a dark tabby pelt and light green eyes.
+
+<br><br><h2>Personality</h2>
+<font size="2"><div align="right"><i>song lyrics here</i></div></font><br>
+QUICK: Shadow is shy and reserved, letting herself be overshadowed by her siblings.
+
+DETAILED: <p>From birth, Shadow knew she was special. Something about the power of prophecy does that to you. However, she didn't take on the same self-starter attitude as her siblings. In fact, she kept to herself, even with them. She is a listener, not a talker, preferring others to speak and for her to listen.</p>
+<p>She does have an aggressive streak, brought on by the swirl of futures in her head. When one shifted majorly, it had an affect on her temper, making her grouchy and more likely to lash out. But she does her best to keep herself away from other cats while she gets her temper under control. She likes to convey an air of put-together-ness, and she knows her temper would go against that.</p>
+<p>She is reserved and shy, which leads to her being less adventurous than her siblings. However, she has a big heart and once she gets to know you, she is loyal and loving. She does care about her siblings, despite keeping to herself for the most part.</p>
+
+
+
+<br><br><h2>History</h2>
+<font size="2"><div align="right"><i>song lyrics here</i></div></font><br><p>
+Born to an unknown father, Shadow knew right away that she had the power of prophecy. She wasn't sure whether it came from further back in her mother's line, or whether the inkling she had about her father's identity was right.
+<br><br>
+Her mother was always very busy, which led to not having a great deal of maternal mentorship.
+<br><br>
+...She's a kit. More to come later.
+<br><br><br><br><br></p></div>
+
+
+
+</div>
+</div>
+<div id="credits" style="position: fixed;">css by <a href="/~colorblock">colorblock</a>
+</div>
+<br><br><br><br><br><br>
+
